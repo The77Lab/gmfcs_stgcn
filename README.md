@@ -35,6 +35,7 @@ The code in this repository corresponds to the experiments conducted in the pape
 
 - **`machine_learning/`**: Neural network definitions and training code. 
 - **`preprocessing/`**: Preprocessing Scripts.
+- **`.devcontainer/`**: A Docker container setup for Visual Studio Code users. See the details [here](.devcontainer/README.md).
 
 ## Ackowledgement
 This research was supported by Takeda Development Center Americas, INC. (successor in interest to Millennium Pharmaceuticals, INC.) \- MIT Grant \#6947514.

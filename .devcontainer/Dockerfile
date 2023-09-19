@@ -1,8 +1,8 @@
 FROM pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
 
-# Add tf user with same UID and GID as your host system
+# Add pytorch user with same UID and GID as your host system
 # (copied from https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user)
-ARG USERNAME=tf
+ARG USERNAME=pytorch
 ARG USER_UID=1000
 ARG USER_GID=$USER_UID
 RUN groupadd --gid $USER_GID $USERNAME \
