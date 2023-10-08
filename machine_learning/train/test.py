@@ -105,7 +105,7 @@ def load_sample(video, clip):
     return data
 
 
-test_dataset_file = 'test_dataset14.npy'
+test_dataset_file = os.path.join(script_dir, 'test_dataset14.npy')
 
 test_data = np.load(test_dataset_file)
 
