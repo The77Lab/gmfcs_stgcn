@@ -43,4 +43,11 @@ This research was supported by Takeda Development Center Americas, INC. (success
 
 ## Citation
 
-If you find this code useful in your research, please consider citing the paper after it's published. 
+If you find this code useful in your research, please consider citing the paper.
+
+@inproceedings{zhao2023motor,
+  title={Motor Function Assessment of Children with Cerebral Palsy using Monocular Video},
+  author={Zhao, Peijun and Alencastre-Miranda, Moises and Shen, Zhan and O’Neill, Ciaran and Whiteman, David and Gervas-Arruga, Javier and Krebs, Hermano Igo},
+  booktitle={Proceedings of the IEEE-EMBS International Conference on Body Sensor Networks},
+  year={2023}
+}
