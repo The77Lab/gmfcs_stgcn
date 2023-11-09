@@ -1,7 +1,7 @@
 # GMFCS_STGCN
 
 This repository contains the code implementation for the research paper titled *Motor Function Assessment of Children with
-Cerebral Palsy using Monocular Video*. This paper is currently accepted at IEEE-EMBS International Conference on Body Sensor Networks (IEEE BSN 2023).
+Cerebral Palsy using Monocular Video*. This paper was presented at IEEE-EMBS International Conference on Body Sensor Networks (IEEE BSN 2023).
 
 ## Authors
 Peijun Zhao, Department of Mechanical Engineering, Massachusetts Institute of Technology
