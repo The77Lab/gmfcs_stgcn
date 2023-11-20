@@ -3,6 +3,9 @@
 This repository contains the code implementation for the research paper titled *Motor Function Assessment of Children with
 Cerebral Palsy using Monocular Video*. This paper was presented at IEEE-EMBS International Conference on Body Sensor Networks (IEEE BSN 2023).
 
+Also, it contains the additional parts in TSNRE folder, for an extended journal paper under review. 
+
+
 ## Authors
 Peijun Zhao, Department of Mechanical Engineering, Massachusetts Institute of Technology
 
