@@ -29,8 +29,7 @@ The assessment of movement abilities in individuals with neurological disorders 
 with professional assessments based on the weighted Cohen’s Kappa (κlw = 0.733). Furthermore, the proposed method can be efficiently implemented on a wide range of mobile devices in real-time or near real-time.
 
 ## Paper Link
-
-The paper is currently accepted but has not been published yet. We will add the link once the paper is officially published in the conference proceedings. 
+https://dspace.mit.edu/bitstream/handle/1721.1/152149/_BSN__Monocular_based_Gross_Motor_Function_Assessment%20%281%29%5B58%5D.pdf
 
 ## Code Overview
 
