@@ -22,7 +22,7 @@ from pytorch_metric_learning import losses, miners
 
 from network import STGCN_Classifier_Metric
 batch_size = 96
-sample_folder = "C:/Users/pjzha/OneDrive/Desktop/video-gait-v1/samples/"
+sample_folder = "sample folder here"
 
 for sample_rate in range(1, 2):
     ratio = sample_rate / 10
